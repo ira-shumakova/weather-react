@@ -1,0 +1,17 @@
+.myInput {
+    position: absolute;
+    top: -5vh;
+    right: 0;
+    height: 0.5rem;
+    width: 15rem;
+    border-radius: 20px;
+    border: 2px solid #06201396;
+    padding: 0.7rem;
+    font-size: 1.2rem;
+    background-color: #44ba8f70;
+    backdrop-filter: blur(20px);
+  }
+  
+.myInput:focus-visible {
+    outline: none;
+}

@@ -1,0 +1,36 @@
+.oneDay {
+  background-color: #44ba8f70;
+  backdrop-filter: blur(20px);
+  border: 2px solid #06201396;
+  border-radius: 20px;
+  margin-top: 1rem;
+  height: 6.25rem;
+}
+
+.dailyStyle {
+  text-align: center;
+}
+
+.dailyTemp {
+  margin-top: 0px;
+
+}
+
+.dailyTemp {
+  font-weight: 800;
+  font-size: 1.25rem;
+  margin-bottom: 0px;
+  margin-top: 0.5rem;
+}
+
+.minTemp {
+  font-weight: 400;
+  font-size: 1rem;
+  color: #292627;
+  margin-top: 0px;
+  padding-left: 1rem;
+}
+
+.day {
+  margin: 0px;
+}

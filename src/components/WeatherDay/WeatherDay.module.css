@@ -1,0 +1,57 @@
+.weatherDay {
+  backdrop-filter: blur(20px);
+  height: 27vh;
+  background-color: #44ba8f70;
+  border: 2px solid #06201396;
+  border-radius: 20px;
+}
+
+.weatherIcon {
+  height: 9rem;
+  padding-left: 1rem;
+}
+
+.weatherBox {
+  padding-top: 0.5rem;
+}
+
+.weatherDescription {
+  margin: 0px;
+  padding-left: 1rem;
+}
+
+.firstGrid {
+  text-align: center;
+}
+
+.lastGrid {
+  padding-left: 0.5rem;
+}
+
+.firstGrid h1 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  font-size: 1.75rem;
+}
+
+.firstGrid h2 {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.paddingTop {
+  padding-top: 1.5rem;
+}
+
+.paddingTopGrid {
+  padding-top: 2rem;
+  font-size: 2.5rem;
+}
+
+.paddingTopGrid {
+  padding-top: 1rem;
+}
+
+.circProgress {
+  margin: 10vh 42vh;
+}
