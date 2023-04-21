@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherNextOneDay matches snapshot 1`] = `
+<div>
+  <div
+    class="oneDay"
+    data-bs-placement="left"
+    data-bs-toggle="tooltip"
+    title="broken clouds"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container dailyStyle css-11j0bs5-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+      >
+        <h3
+          class="day"
+        >
+          Thursday
+        </h3>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-md-6 MuiGrid-grid-xl-7 css-adoetp-MuiGrid-root"
+      >
+        <img
+          alt="broken clouds"
+          src="04d.svg"
+        />
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-md-6 MuiGrid-grid-xl-5 css-rsm9di-MuiGrid-root"
+      >
+        <h3
+          class="dailyTemp"
+        >
+          14
+          °C
+        </h3>
+        <p
+          class="minTemp"
+        >
+          6
+          °C
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherDay matches snapshot 1`] = `
+<div>
+  <div
+    class="weatherDay"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 weatherBox css-1hx6p0u-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 firstGrid css-1equabv-MuiGrid-root"
+      >
+        <h1
+          class="paddingTopGrid"
+        >
+          Lviv
+        </h1>
+        <h2>
+          14
+          °C
+        </h2>
+        <p>
+          Updated at 
+          13:00, 20th April 2023
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-1equabv-MuiGrid-root"
+      >
+        <img
+          alt="broken clouds"
+          class="weatherIcon"
+          src="04d.svg"
+        />
+        <h3
+          class="weatherDescription"
+        >
+          broken clouds
+        </h3>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 lastGrid css-k3f0g4-MuiGrid-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 paddingTop css-1osj8n2-MuiGrid-root"
+          >
+            Feels like: 
+            13
+            °C
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 paddingTop css-1osj8n2-MuiGrid-root"
+          >
+            Wind: 
+            6.68
+             M/S
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 paddingTop css-1osj8n2-MuiGrid-root"
+          >
+            Pressure: 
+            1017
+             hPa
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 paddingTop css-1osj8n2-MuiGrid-root"
+          >
+            Humidity: 
+            55
+            %
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 paddingTop css-1osj8n2-MuiGrid-root"
+          >
+            Sunrise: 
+            06:22
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 paddingTop css-1osj8n2-MuiGrid-root"
+          >
+            Sunset: 
+            20:23
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

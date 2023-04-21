@@ -61,6 +61,7 @@ const WeatherSearch = () => {
           className={classes.myInput}
           onChange={ e => setCity(e.target.value)} 
           type="text" 
+          placeholder='Search your city...'
         />
         <WeatherDay city={coords.name} weather={weather.current} isLoading={isLoading} />
         <WeatherNextDays weather={weather.daily} />
